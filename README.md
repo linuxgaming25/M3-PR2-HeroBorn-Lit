@@ -1,3 +1,3 @@
-# M3-PR2-HeroBorn-Lit
+# M2 PR3 Minimap
 
-Play: https://linuxgaming25.github.io/M3-PR2-HeroBorn-Lit/
+Play: https://linuxgaming25.github.io/M2-PR3-Minimap/
